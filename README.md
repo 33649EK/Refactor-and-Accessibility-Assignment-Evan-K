@@ -14,7 +14,7 @@ Interactable elemtents, such as the navigation bar, on this webpage can be selec
 ![Horiseon Webpage](./assets/images/Horiseon_web_page.JPG)
 
 ## Credits
-Starter code taken from https://git.bootcampcontent.com/University-of-Denver/DU-VIRT-FSF-PT-10-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge.
+Starter code taken from https://github.com/coding-boot-camp/urban-octo-telegram/tree/main/Develop/assets/images
 
 ## License
 MIT License
